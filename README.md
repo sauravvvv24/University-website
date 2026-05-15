@@ -1,36 +1,33 @@
-# University Form Website
+# University Website
 
-A simple static website project built using **HTML** and **CSS**.
-This project contains a responsive form-based website design suitable for beginner web development practice.
+A simple static **University Website** built using **HTML** and **CSS**.
+This project is designed to showcase basic frontend web development skills by creating a clean and responsive educational website interface.
 
 ---
 
 ## 📌 Project Overview
 
-This project is a basic static website created using:
+This website contains multiple pages related to a university system such as:
 
-* HTML5
-* CSS3
+* Home Page
+* About Section
+* Courses Page
+* Contact Form
+* Navigation Menu
 
-The website includes:
-
-* Home page
-* Form section
-* Navigation bar
-* Styled layout using CSS
-* Responsive design basics
-
-It is designed for learning and practicing frontend web development concepts.
+The project focuses on designing a structured and user-friendly static website using only HTML and CSS.
 
 ---
 
 ## 🚀 Features
 
-* Clean and simple UI
-* Form design using HTML
-* CSS styling
-* Easy folder structure
-* Beginner-friendly project
+* Responsive webpage layout
+* Simple and clean UI
+* Navigation bar
+* Courses section
+* Contact form
+* Styled using CSS
+* Beginner-friendly project structure
 
 ---
 
@@ -44,12 +41,13 @@ It is designed for learning and practicing frontend web development concepts.
 ## 📂 Project Structure
 
 ```bash
-project-folder/
+University-Website/
 │
 ├── index.html
-├── style.css
-├── form.html
 ├── about.html
+├── courses.html
+├── contact.html
+├── style.css
 └── README.md
 ```
 
@@ -57,26 +55,26 @@ project-folder/
 
 ## ▶️ How to Run the Project
 
-1. Download or clone the repository
+1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/your-username/university-website.git
 ```
 
 2. Open the project folder
 
-3. Run the `index.html` file in any browser
+3. Run the `index.html` file in your browser
 
 ---
 
 ## 📸 Screenshots
 
-Add your project screenshots here.
+Add screenshots of your project here.
 
 Example:
 
 ```bash
-<img width="1718" height="841" alt="image" src="https://github.com/user-attachments/assets/3ea6b357-3cdd-4a0d-ab26-64cb22432edc" />
+<img width="1718" height="841" alt="Screenshot 2026-05-15 102308" src="https://github.com/user-attachments/assets/f19db46e-eee9-4bfb-b8dd-625f23058ddb" />
 
 ```
 
@@ -87,18 +85,18 @@ Example:
 This project was created for:
 
 * Learning HTML and CSS
-* Understanding website structure
-* Practicing form design
-* Building frontend development basics
+* Understanding static website development
+* Practicing webpage design
+* Improving frontend development skills
 
 ---
 
 ## 📈 Future Improvements
 
-* Add JavaScript validation
-* Improve responsiveness
-* Add backend integration
-* Store form data using database
+* Add JavaScript functionality
+* Improve mobile responsiveness
+* Add student login system
+* Connect with backend and database
 
 ---
 
@@ -110,4 +108,4 @@ This project was created for:
 
 ## 📄 License
 
-This project is open-source and free to use for educational purposes.
+This project is open-source and available for educational purposes.
