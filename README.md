@@ -1,4 +1,4 @@
-# Hotel Management Form Website
+# University Form Website
 
 A simple static website project built using **HTML** and **CSS**.
 This project contains a responsive form-based website design suitable for beginner web development practice.
