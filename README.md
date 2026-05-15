@@ -77,10 +77,8 @@ Add screenshots of your project here.
 
 Example:
 
-```bash
-<img width="1718" height="841" alt="Screenshot 2026-05-15 102308" src="https://github.com/user-attachments/assets/f19db46e-eee9-4bfb-b8dd-625f23058ddb" />
+<img width="612" height="518" alt="image" src="https://github.com/user-attachments/assets/f81d7ae7-b5a5-4807-8c2f-12ba273c95b4" />
 
-```
 
 ---
 
