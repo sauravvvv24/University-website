@@ -17,6 +17,9 @@ This website contains multiple pages related to a university system such as:
 
 The project focuses on designing a structured and user-friendly static website using only HTML and CSS.
 
+<img width="1907" height="807" alt="image" src="https://github.com/user-attachments/assets/f620d272-ad10-4369-863a-db9c3907d35f" />
+
+
 ---
 
 ## 🚀 Features
